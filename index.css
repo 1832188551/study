@@ -4,3 +4,9 @@ html {
   padding: 0;
   background-color: green;
 }
+
+div {
+  height: 20px;
+  width: 200px;
+  background-color: skyblue;
+}
